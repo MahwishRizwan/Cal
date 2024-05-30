@@ -1,2 +1,2 @@
-# Cal
+# Calculator
 A calculator using HTML and CSS.
